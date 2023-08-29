@@ -1,4 +1,2 @@
-# web_scraping-Homework
-Practice:
-Selenium
-Request
+### Practice:
+Selenium、Request
